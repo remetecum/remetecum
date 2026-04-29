@@ -95,6 +95,6 @@ Los datos de todas las estaciones se centralizan y visualizan en:
 
 *Monitoreo climático · Mendoza, Argentina*
 
-<sub>Escuela Técnica · Universidad de Mendoza · © 2022 – presente</sub>
+<sub>Escuela Técnica · Universidad de Mendoza · 2022 – presente</sub>
 
 </div>
